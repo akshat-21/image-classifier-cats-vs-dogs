@@ -8,11 +8,7 @@ Following were the steps involved in it:
 This project was implemented in Colab Notebook which reads and writes files and folders in Google Drive and connects to the Google Cloud on the back-end.
 
 - First, [training step](./train.ipynb) is carried out on 1000 cat and dog images each.
-<p float="left">
-  <img src="/what1.png" width="75" />
-  <img src="/what2.png" width="75" /> 
-<!--   <img src="/img3.png" width="100" /> -->
-</p>
+<img src="what1.png" width="425"/> <img src="what2.png" width="425"/> 
 - The neural network is going to start from scratch, and learn the difference, based on these 2000 'training dataset' images.
 - Then for the validation step, the network is fed 400 images each, of more cats and dogs images - these are to feed the trained network, compare its classification answers to the actual answers so as to compute the accuracy of the training
 - Finally, the network is tested with new images of cats and dogs [that are not in the training or validation datasets] to [classify](./classify.ipynb) them: an output of 0 means 'cat', 1 means 'dog'.

@@ -1,4 +1,4 @@
-# Training a neural network on differentiating between a cat pic and dog pic
+# Training a neural network to differentiate between a cat pic and dog pic
 
 In this project, I implemented 'supervised learning' to train neural network with labeled images of cats and dogs.
 

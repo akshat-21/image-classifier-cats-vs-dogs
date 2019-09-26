@@ -9,8 +9,8 @@ This project was implemented in Colab Notebook which reads and writes files and 
 
 - First, [training step](./train.ipynb) is carried out on 1000 cat and dog images each.
 <p float="left">
-  <img src="/what1.png" width="100" />
-  <img src="/what2.png" width="100" /> 
+  <img src="/what1.png" width="75" />
+  <img src="/what2.png" width="75" /> 
 <!--   <img src="/img3.png" width="100" /> -->
 </p>
 - The neural network is going to start from scratch, and learn the difference, based on these 2000 'training dataset' images.

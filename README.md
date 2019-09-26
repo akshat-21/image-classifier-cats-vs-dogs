@@ -3,6 +3,7 @@
 In this project, I implemented 'supervised learning' to train neural network with labeled images of cats and dogs.
 
 Following were the steps involved in it:
+
 ![Supervised ML](./SupML.png)
 
 This project was implemented in Colab Notebook which reads and writes files and folders in Google Drive and connects to the Google Cloud on the back-end.
